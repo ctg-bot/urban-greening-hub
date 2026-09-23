@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ctg-bot.github.io/urban-greening-hub/sitemap.xml
